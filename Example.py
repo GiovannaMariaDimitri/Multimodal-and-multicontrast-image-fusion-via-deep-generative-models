@@ -36,8 +36,9 @@ Mod_2 = data_loader.get_mri()
 net = Net(params)
 
 
-
+#Train the network
 history = net.train([Mod_1,Mod_2])
+#Predict 
 reconstr1,reconstr2,embed = net.predict([Mod_1,Mod_2])
 
 with open('./example.pickle', 'wb') as f:
