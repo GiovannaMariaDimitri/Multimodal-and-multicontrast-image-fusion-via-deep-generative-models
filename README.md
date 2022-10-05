@@ -1,4 +1,4 @@
-# Multimodal-and-multicontrast-image-fusion-via-deep-generative-models
+# Multimodal and multicontrast image fusion via deep generative models
 Repository of the paper "Multimodal and multicontrast image fusion via deep generative models"
 
 When using this code please cite: Dimitri, Giovanna Maria, et al. "Multimodal and multicontrast image fusion via deep generative models." Information Fusion 88 (2022): 146-160.
